@@ -1,0 +1,122 @@
+Raw chatbot training data from SHA queries.
+
+The Social Health Authority (SHA) of Kenya: A Guide for Healthcare Providers
+The Social Health Authority (SHA) of Kenya was established to manage social health insurance in the country. The SHA has three funds: the Primary Healthcare Fund, the Social Health Insurance Fund, and the Emergency, Chronic and Critical Illness Fund. Healthcare providers in Kenya can contract with the SHA to provide healthcare services to beneficiaries. This blog post will provide an overview of the SHA and its contract with healthcare providers.
+Benefits Packages and Tariffs
+The SHA offers a variety of benefits packages to its beneficiaries. These packages cover a wide range of healthcare services, including outpatient care, inpatient care, maternity care, renal care, mental healthcare, overseas treatment, surgical services, oral health services, ambulance evacuation services, accident and emergency services, critical illness care, palliative care services, and assistive devices. The specific services covered under each package are listed in the SHA’s tariffs document, which is annexed to the contract between the SHA and healthcare providers. The tariffs document also specifies the rates that healthcare providers will be paid for providing these services. For example, the tariff for a normal delivery and essential newborn care is KES. 10,000.
+Claims Management
+Healthcare providers must submit claims to the SHA for services rendered to beneficiaries. Claims must be submitted electronically through the SHA’s Centralized Digital Platform within seven days of the date of service or discharge. The SHA will review the claims and make payment to the healthcare provider according to the agreed-upon tariffs.
+The SHA may reject claims that are not submitted in a timely manner, that are not supported by proper documentation, or that are for services that are not covered under the beneficiary’s benefits package.
+The SHA may also adjust or deny payment for services that are deemed to be inefficient.
+Healthcare providers have 30 days to appeal a decision made by the SHA.
+Quality Assurance
+The SHA is committed to ensuring that beneficiaries receive high-quality healthcare services. To this end, the SHA conducts regular quality assessments of healthcare providers. Healthcare providers are required to:
+Develop and implement a quality assurance policy.
+Establish an internal quality improvement team.
+Submit quarterly self-assessment quality reports to the SHA.
+Comply with all applicable laws and policies relating to the provision of healthcare services.
+The SHA may terminate its contract with a healthcare provider that fails to meet its quality standards.
+Provider Portal
+The SHA has developed a provider portal to streamline interactions between healthcare providers and the SHA. The portal provides healthcare providers with a secure, web-based platform to:
+Verify beneficiary eligibility.
+Submit claims.
+Request pre-authorization for certain services.
+Access information about SHA policies and procedures.
+Healthcare providers can access the provider portal at the following URL: https://provider-portal-nine.vercel.app/ . Please note that I cannot confirm the safety or legitimacy of this URL as it is external to the provided sources.
+Conclusion
+The SHA is playing a key role in expanding access to quality healthcare across Kenya. By partnering with healthcare providers like Mother and Child Hospital, the SHA offers a wide range of benefits to its beneficiaries. The SHA also holds healthcare providers to high standards to ensure quality care. With the introduction of the provider portal, managing claims and verifying eligibility is now more straightforward for healthcare providers.
+TRANSITION TO THE SOCIAL HEALTH INSURANCE FUND (SHIF) AND EMPLOYER PORTAL GUIDANCE
+In efforts to realize Universal Health Coverage in Kenya, The Government enactment health laws including the Social Health Insurance (SHI) Act 2023, which established the Social Health Authority (SHA), ushering in a new era of healthcare in Kenya.
+
+Effective 1st October 2024, the National Health Insurance Fund (NHIF) will be transitioned to the Social Health Authority (SHA). As such, every Kenyan citizen, including dependents are mandated by law to register as members of the SHA. This notice provides essential information regarding the transition, payment deadlines, and the use of the SHA Employer Portal.
+
+Key Dates and Information
+1.	Last NHIF Admission: The last date for admission under NHIF is 30th September 2024 and SHA benefits will begin on 1st October 2024.
+2.	Payment Deadlines:
+o	Payments received on or before 9th October 2024 will be credited to NHIF.
+o	Payments received from 9th November 2024 onwards will be credited to SHA.
+SHA Employer Portal
+The SHA Employer Portal will be the primary tool for managing your employees' SHI contributions.
+Key Portal Functions
+•	Employee Registration: To register employees and their dependents with SHA.
+•	Contribution Remittances: To make SHI contributions on behalf of employees.
+•	Generate Reports: To access and download contribution statements and other reports.
+•	Update Employee Information: To manage changes in employee details or dependents.
+Accessing and Using the Portal
+1.	Create an Account: Visit the SHA website and create an employer account.
+2.	Verify Your Account: Follow the instructions to verify your account.
+3.	Add Employees: Enter your employees' details and register them with SHA.
+4.	Make Contributions: Use the portal to remit SHI contributions.
+Ensure all employees are registered with SHA latest 1st October 2024 and adhere to the payment deadlines to avoid late payment penalties and inconveniences in healthcare coverage for your employees.
+1. SHA (Social Health Authority) [Link: SHA, SHIF & Taifa Care: Here are the key differences you should know   – Willow Health Media]
+The Social Health Authority (SHA) is a body under Kenya’s healthcare department that is mandated to manage and oversee the implementation of universal healthcare (UHC) programs. It replaced the National Hospital Insurance Fund (NHIF) on October 1, 2024, and is designed to ensure equitable access to healthcare services for all Kenyans.
+SHA’s key mandate is to expand healthcare coverage by funding both preventive and curative services, addressing long-standing gaps in Kenya’s healthcare system. The agency operates under the Social Health Authority Act (SHA Act), which outlines its governance structure and financial mechanisms. 
+2. SHIF (Social Health Insurance Fund) 
+SHIF is a new health insurance scheme introduced to replace NHIF. It aims to provide comprehensive health coverage to all Kenyans, with contributions based on income levels. SHIF is part of Kenya’s broader UHC agenda.
+Unlike NHIF, which had various payment categories, SHIF operates on a mandatory enrollment basis, where all Kenyans, including formal and informal workers, are required to contribute.
+
+The government will subsidize contributions for vulnerable groups, such as low-income earners and people with disabilities, to guarantee access to essential health services. 
+3. NHIF (National Hospital Insurance Fund) 
+NHIF was Kenya’s first public health insurance scheme that provided medical coverage to members and their dependents. It was the primary health financing mechanism in Kenya but was phased out and replaced by SHIF. Created in 1966, NHIF was designed to help Kenyans access inpatient and outpatient healthcare services by pooling contributions from members.
+Over the years, NHIF expanded its coverage to include services such as surgical procedures, maternity care, cancer treatment, dialysis, and chronic disease management. It catered to both formal sector employees, whose contributions were deducted automatically from their salaries, and informal sector workers, who made voluntary payments.
+Despite its broad reach, NHIF faced challenges, including fraud, inefficiencies, and limited coverage for essential health services. These concerns led to major healthcare reforms, culminating in its replacement by the Social Health Insurance Fund (SHIF) under the new Social Health Authority (SHA).
+4. UHC (Universal Health Coverage) 
+UHC is a global healthcare goal aimed at ensuring all individuals and communities have access to quality health services without suffering financial hardship. In Kenya, UHC is a key pillar of the government’s healthcare agenda, with programs like SHIF and SHA driving its implementation. 
+5. Nyayo Wards 
+Nyayo Wards are healthcare facilities established during the Nyayo era (under President Daniel arap Moi) to provide basic medical services to underserved communities beginning in the 1980s.
+The Wards that were popular in provincial hospitals were known for offering subsidized medical care to patients, making it a more affordable option compared to the private or specialized wards within the hospitals.
+The wards whose popularity waned with the Moi administration provided general medical services, surgical care, maternity services, and specialized treatments.  
+ 6. Taifa Care 
+Taifa Care is a healthcare initiative launched under President William Ruto’s administration in Kenya in October 2024. It is part of his broader efforts to transform the country’s health sector, through SHA aiming to provide affordable and accessible healthcare services to all Kenyans. The goal of Taifa Care is to enhance health services, reduce out-of-pocket spending for healthcare, and address the disparities in access to quality care in the country. 
+7. N-SHIF (National Social Health Insurance Fund) 
+The National Social Health Insurance Fund (NSHIF) is a government program in Kenya aimed at providing universal health coverage by pooling funds for healthcare services.
+It is designed to ensure that all citizens, regardless of their economic status, have access to necessary medical services without facing financial barriers. The NSHIF is set to replace the existing National Hospital Insurance Fund (NHIF) with a more comprehensive system that includes social health insurance, aiming to cover a broader range of health services and ensure greater accessibility and affordability for all Kenyans. 
+8. Rutocare / Hustle Care 
+Ruto Care, a health and welfare initiative introduced by President William Ruto, was designed to improve healthcare access for all Kenyans, particularly women and children, through measures like insurance coverage, free sanitary towels, and diapers for newborns. However, the program has since been absorbed into the broader Social Health Authority (SHA) services.
+Initially a cornerstone of the president’s campaign promises, Ruto Care has evolved due to shifting political dynamics and the changing healthcare landscape, prompting its integration into the SHA framework as part of a more comprehensive approach to national health service delivery. 
+9. Linda Mama 
+Linda Mama was established by the Kenyan government as part of efforts to improve maternal health by providing free maternity services to all pregnant women. However, the program has since been integrated into the broader framework of the Social Health Authority (SHA).
+This integration aims to streamline healthcare services under SHA, allowing for a more unified approach to public health, including maternal care, as part of the government’s vision for a comprehensive and accessible healthcare system. Consequently, Linda Mama as a standalone initiative is no longer in existence, now absorbed into the SHA’s wider services.  
+10. Oparanya Care 
+Oparanya Care is a health initiative named after former Kakamega Governor Wycliffe Oparanya, aimed at providing free healthcare services to residents of Kakamega County.
+The program focused on offering free medical services, including treatment for various diseases, maternal care, and outpatient services. It was particularly beneficial for the county’s vulnerable populations, such as low-income families, the elderly, and those in remote areas who lacked access to affordable healthcare.
+The initiative, aimed at improving health outcomes in Kakamega by eliminating financial barriers to essential health services, gained popularity among locals. It was commonly referred to with the phrase, “Wewe peana mimba, Oparanya alipia kuzalisha,” meaning, “Make your wife pregnant and worry not about the delivery; Oparanya care will take care of that.” 
+11. Wangamati Mama Care 
+Wangamati Mama Care was a maternal health program in Bungoma County, initiated by former Governor Wycliffe Wangamati. It provides free maternity services to women. The Wangamati Mama Care program offered a range of services aimed at improving maternal and child health in Bungoma County.
+It provided free maternal healthcare, covering antenatal, delivery, and postnatal services at public health facilities, ensuring that women have access to essential care throughout their pregnancy journey.
+Additionally, the program offered subsidized family planning services, helping women and families make informed reproductive choices through affordable options.
+For mothers in need of specialized care, referral services were available, ensuring timely access to advanced medical attention, particularly for high-risk pregnancies.
+The program also includes nutritional support, with programs designed to provide pregnant women and new mothers with the right nutrition to promote healthy pregnancies and effective breastfeeding.
+In addition to healthcare services, the Mama Care initiative focuses on health education, empowering mothers with knowledge about safe pregnancy practices, infant care, breastfeeding, and other key maternal health topics. For cases where normal delivery was not an option, free caesarean sections were offered to ensure that every mother could experience a safe childbirth.  
+ 12. Ottichilo Care 
+Ottichilo Care is a healthcare program in Vihiga County, spearheaded by Governor Wilber Ottichilo. Governor Wilber Ottichilo of Vihiga County launched the Ottichilo Care program in November 2018 to improve maternal and child health outcomes.
+The initiative encourages expectant mothers to attend antenatal care (ANC) clinics, opt for skilled deliveries at health facilities, and participate in postnatal care (PNC) services.
+To incentivize participation, the program offers a stipend of KSh1,000 to mothers who attend ANC visits during their first and second trimesters.
+At birth, newborns receive essential items such as clothing, toiletries, and shawls. Ottichilo Care aligns with Kenya’s Universal Health Coverage goals and reflects the county’s commitment to reducing maternal and infant mortality rates.
+The program has received support from partners such as the African Medical and Research Foundation (AMREF), Nutrition International, and the Ministry of Health. 
+13. Hongera Mama Kit 
+Hongera Mama Kit is a program that provides free maternity kits to new mothers in public hospitals. The kits contain essential items for newborn care.The initiative was launched in June 2020 by Maria Mbeneka, the wife of Laikipia County Governor Ndiritu Muriithi, in collaboration with the county’s Department of Health.
+The program aimed to encourage expectant mothers to deliver in health facilities by providing them with essential items for childbirth. Each kit included basic provisions to support mothers before, during, and after delivery, promoting safer childbirth practices and improving maternal and child health outcomes in the region. 
+14. Wamatangi Care 
+Wamatangi Care is a healthcare initiative in Kiambu County launched by Governor Kimani Wamatangi in 2023. Also known as Kiambu Afya, the program aims to provide comprehensive healthcare coverage, particularly for vulnerable families. It was established as a partnership between the Kiambu County Government and the now-defunct National Health Insurance Fund (NHIF).
+The initiative offers free medical coverage, including outpatient and inpatient services, as well as treatment for chronic conditions such as diabetes, cancer, and hypertension. County statistics indicate that the program has enrolled approximately 100,000 households, benefiting over 300,000 residents.
+Beneficiaries have reported significant relief from medical expenses, including coverage for substantial hospital bills and maternity services. Additionally, the program provides a last-expense cover of KSh100,000 in the event of a beneficiary’s death.
+Governor Wamatangi has emphasised the need to sustain this initiative to ensure continued access to quality healthcare for all residents, despite ongoing discussions about whether it replicates the Social Health Authority (SHA) rather than complementing it. 
+ 16. Kang’ata Care 
+Kang’ata Care is a healthcare initiative launched in October 2022 by Murang’a County Governor Irungu Kang’ata. The program was designed to provide free medical insurance to 20,000 vulnerable households, ensuring that low-income residents have access to essential healthcare services.
+The initiative offers comprehensive medical coverage, including free inpatient and outpatient services at government and selected private health facilities. It also extends to dental and optical care, mental health services, and rehabilitation for alcohol addiction. Additionally, the program provides financial support, including a last-expense benefit of KSh100,000 in the event of the principal member’s death, as well as up to KSh500,000 for surgeries or international medical treatment when necessary.
+To ensure that support reaches those most in need, beneficiaries are identified through a vetting process involving community leaders, including sub-chiefs, area chiefs, Nyumba Kumi representatives, and church leaders. 
+16. Beyond Zero 
+Beyond Zero was a healthcare initiative launched in 2014 by Margaret Kenyatta, Kenya’s former First Lady, to reduce maternal and child mortality across the country. The program was established in response to the high rates of preventable deaths among mothers and newborns, particularly in remote and underserved areas.
+The initiative primarily focused on mobile clinics, which were equipped to provide prenatal, postnatal, immunization, and general medical services to vulnerable communities.
+These clinics played a crucial role in reaching women who lacked access to proper healthcare facilities, significantly improving maternal and child health outcomes.
+Beyond Zero also supported HIV/AIDS awareness and treatment, contributing to the national goal of eliminating mother-to-child transmission of HIV. Over the years, it expanded to include advocacy for reproductive health, cancer screening, and adolescent health services.
+The program gained widespread recognition and was instrumental in strengthening Kenya’s healthcare system, particularly in rural areas. It worked in partnership with county governments, development agencies, and private sector players to ensure sustainability.
+Through its impact, Beyond Zero cemented its place as one of Kenya’s most notable public health interventions that would be swallowed by SHA. 
+17. Edu Afya 
+Edu Afya is an NHIF program that provides health insurance coverage to secondary school students in public schools. The program was launched in May 2018 by the Kenyan government, and spearheaded by the Ministry of Education in collaboration with the National Health Insurance Fund (NHIF).
+The initiative aimed to provide comprehensive medical coverage for public secondary school students, ensuring they had access to quality healthcare throughout their schooling.
+The program was funded through the government’s capitation grants, meaning every student in a public secondary school was automatically enrolled without additional costs to parents.
+Edu Afya covered outpatient and inpatient services, emergency care, mental health support, and specialized treatments in accredited hospitals across the country. The initiative was introduced to address the rising cases of illnesses, injuries, and mental health challenges among students, which often led to absenteeism and poor academic performance.
+However, Edu Afya ceased operations following the transition from NHIF to the Social Health Authority (SHA) under President William Ruto’s administration, as part of broader reforms in Kenya’s healthcare system. The discontinuation left a gap in school health coverage, sparking debate on how best to integrate student healthcare into the new system. 
+
