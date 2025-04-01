@@ -5,7 +5,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, Body
 import os
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import SQLAlchemyError
@@ -49,7 +49,7 @@ router = APIRouter(prefix="/chat", tags=["Chatbot"])
 # get response from the google gemini api
 @router.post("")
 async def chatbot_query(
-    user_input: str, db: Session = Depends(get_db),
+    user_input: str = Body(..., embed=True), db: Session = Depends(get_db),
     # current_user: Optional[User] = Depends(get_current_active_user),  # Get authenticated user
     ):
     user_id = None # no authentication for now
